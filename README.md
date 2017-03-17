@@ -15,7 +15,9 @@ sudo pip install lxml
 1.注册server酱，获取sckey，达到微信提醒的目的
 
 地址 http://sc.ftqq.com/  登陆后获取
+
 ![](https://ww3.sinaimg.cn/large/006tKfTcly1fdq7y9b3e9j30ih08odge.jpg)
+
 替换代码中的sckey
 
 2.修改剧集名称
